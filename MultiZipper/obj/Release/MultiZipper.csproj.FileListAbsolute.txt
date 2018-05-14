@@ -1,0 +1,11 @@
+C:\Users\user1\Documents\Visual Studio 2017\Projects\MultiZipper\MultiZipper\bin\Release\MultiZipper.exe.config
+C:\Users\user1\Documents\Visual Studio 2017\Projects\MultiZipper\MultiZipper\bin\Release\MultiZipper.exe
+C:\Users\user1\Documents\Visual Studio 2017\Projects\MultiZipper\MultiZipper\bin\Release\MultiZipper.pdb
+C:\Users\user1\Documents\Visual Studio 2017\Projects\MultiZipper\MultiZipper\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\user1\Documents\Visual Studio 2017\Projects\MultiZipper\MultiZipper\obj\Release\MultiZipper.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2017\Projects\MultiZipper\MultiZipper\obj\Release\MultiZipper.Properties.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2017\Projects\MultiZipper\MultiZipper\obj\Release\MultiZipper.csproj.GenerateResource.cache
+C:\Users\user1\Documents\Visual Studio 2017\Projects\MultiZipper\MultiZipper\obj\Release\MultiZipper.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Visual Studio 2017\Projects\MultiZipper\MultiZipper\obj\Release\MultiZipper.csproj.CopyComplete
+C:\Users\user1\Documents\Visual Studio 2017\Projects\MultiZipper\MultiZipper\obj\Release\MultiZipper.exe
+C:\Users\user1\Documents\Visual Studio 2017\Projects\MultiZipper\MultiZipper\obj\Release\MultiZipper.pdb
